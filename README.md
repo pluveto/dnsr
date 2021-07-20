@@ -1,6 +1,6 @@
 # DNSR
 
-一个基于libuv实现的DNS中继服务器，具有转发、缓存功能，能够应对高并发。
+一个基于libuv实现的DNS中继服务器，具有转发、缓存功能，能够应对高并发。都是 https://github.com/xqmmcqs 写的
 
 ## 参考
 
